@@ -1,2 +1,2 @@
 # University
-Contains all of the work done within University Classes
+All coursework are categorized by class name
