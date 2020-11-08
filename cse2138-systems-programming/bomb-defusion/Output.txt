@@ -1,0 +1,6 @@
+I am the mayor. I can do anything I want.
+0 1 1 2 3 5
+1 674
+8 35 #
+bbcfeg
+6 4 1 5 2 3
