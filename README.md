@@ -19,6 +19,9 @@ Lecturer: Murat Can Ganiz
 Lecturer: Betül Boz
 
 ## [STAT2253 Probability and Statistics](https://github.com/T4ut0/CSE/tree/main/stat2253-probability-and-statistics)
-Lecturer: Ömer Korçak
+Lecturer: Müjdat Soytürk
+
+## [CSE3055 Database Systems](https://github.com/T4ut0/CSE/tree/main/cse3055-database-systems)
+Lecturer: Mustafa Ağaoğlu
 
 ## [Other](https://github.com/T4ut0/CSE/tree/main/other)
