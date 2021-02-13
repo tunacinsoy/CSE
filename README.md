@@ -15,6 +15,9 @@ Lecturer: Ömer Korçak
 ## [CSE3063 Object Oriented Programming](https://github.com/T4ut0/CSE/tree/main/cse3063-object-oriented-programming)
 Lecturer: Murat Can Ganiz
 
+## [CSE1200 Introduction to Computer Engineering](https://github.com/T4ut0/CSE/tree/main/cse1200-introduction-to-computer-engineering)
+Lecturer: Fatma Corut Ergin
+
 ## [CSE3215 Digital Logic Design](https://github.com/T4ut0/CSE/tree/main/cse3215-digital-logic-design)
 Lecturer: Betül Boz
 
