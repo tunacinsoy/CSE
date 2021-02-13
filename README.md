@@ -24,4 +24,7 @@ Lecturer: Müjdat Soytürk
 ## [CSE3055 Database Systems](https://github.com/T4ut0/CSE/tree/main/cse3055-database-systems)
 Lecturer: Mustafa Ağaoğlu
 
+## [CSE3033 Operating Systems](https://github.com/T4ut0/CSE/tree/main/cse3033-operating-systems)
+Lecturer: Ali Haydar Özer
+
 ## [Other](https://github.com/T4ut0/CSE/tree/main/other)
