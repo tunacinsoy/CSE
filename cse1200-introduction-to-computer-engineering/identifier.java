@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class TunahanCinsoy_150117062 {
+public class identifier {
 public static void main(String[] args) throws FileNotFoundException{
 	File f = new File("input.txt");
 	Scanner in = new Scanner(f);
