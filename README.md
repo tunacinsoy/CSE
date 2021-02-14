@@ -30,4 +30,7 @@ Lecturer: Mustafa Ağaoğlu
 ## [CSE3033 Operating Systems](https://github.com/T4ut0/CSE/tree/main/cse3033-operating-systems)
 Lecturer: Ali Haydar Özer
 
+## [IE3081 Modeling and Discrete Simulation](https://github.com/T4ut0/CSE/tree/main/ie3081-modeling-and-discrete-simulation)
+Lecturer: Müjdat Soytürk
+
 ## [Other](https://github.com/T4ut0/CSE/tree/main/other)
