@@ -33,4 +33,7 @@ Lecturer: Ali Haydar Özer
 ## [IE3081 Modeling and Discrete Simulation](https://github.com/T4ut0/CSE/tree/main/ie3081-modeling-and-discrete-simulation)
 Lecturer: Müjdat Soytürk
 
+## [CSE4074 Computer Networks](https://github.com/T4ut0/CSE/tree/main/cse4074-computer-networks)
+Lecturer: Ömer Korçak
+
 ## [Other](https://github.com/T4ut0/CSE/tree/main/other)
